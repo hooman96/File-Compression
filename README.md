@@ -9,10 +9,16 @@ This command-line application is written in C/C++ and requires gcc/g++ compiler.
 
 ## Installation 
 
-Makefile is provided. $make can be used. Or manually compiler the driver file.
+Makefile is provided. make command can be used. Or manually compiler and run the driver file.
 ```
 $ make
 ```
+or
+```
+$ g++ encoderRunner.cpp 
+$ ./a.out
+```
+
 
 ## Algorithm
 
