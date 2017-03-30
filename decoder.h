@@ -1,4 +1,3 @@
-// Author: Sean Davis
 #ifndef DECODER_H
 #define	DECODER_H
 
